@@ -1,3 +1,4 @@
 a = input('enter value for a:')
 b = input('enter value for b:')
-print('sum of a and b=', int(a)//int(b))
+print('sum of a and b=', int(a)+int(b))
+print('multiply of a and b =', int(a)*int(b))
